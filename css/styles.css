@@ -1,3 +1,4 @@
 .card {
-  border: tomato;
+  /*border: tomato;*/
+  background-color: tomato;
 }
